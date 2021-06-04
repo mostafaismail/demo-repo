@@ -2,7 +2,7 @@
 
 This is short description.
 
-## subheaders
+## Subheaders
 
 Adding some subheaders text.
 
